@@ -20,3 +20,15 @@ let item_6_type = Number(item_6);
 // console.log(typeof(item_6_type))
 console.log("item_6 == " + typeof(item_6));
 console.log("item_6_type == " + typeof(item_6_type));
+
+let item_7 = String(item_6)
+// console.log(typeof(item_7))
+let item_7_type = String();
+// console.log(typeof(item_7_type))
+
+console.log("item_7 == " + typeof(item_7))
+console.log("item_7_type == " + typeof(item_7_type))
+
+let age_1 = 10;
+let age_2 = 18;
+let age_3 = 60;
